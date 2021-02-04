@@ -1,0 +1,11 @@
+README.md
+setup.py
+productDescription/__init__.py
+productDescription/descriptionCheck.py
+productDescription/imageText.py
+productDescription/spellCheck.py
+productDescription.egg-info/PKG-INFO
+productDescription.egg-info/SOURCES.txt
+productDescription.egg-info/dependency_links.txt
+productDescription.egg-info/requires.txt
+productDescription.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+psycopg2
+pandas
+numpy
+datetime
+language_tool_python
+fuzzywuzzy
+fuzzysearch
+statistics
+Pillow
+requests
+opencv-python
+pytesseract
